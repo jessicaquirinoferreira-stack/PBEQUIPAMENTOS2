@@ -1,0 +1,6 @@
+{
+  "name": "P.B. Equipamentos de Locação",
+  "description": "Locação de equipamentos industriais e para construção civil com atendimento especializado, agilidade no orçamento e soluções sob medida para sua obra e operação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
